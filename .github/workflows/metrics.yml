@@ -1,0 +1,42 @@
+name: Update GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Update twice a day
+  workflow_dispatch:
+  # Optional: uncomment to run on any push to main
+  # push:
+  #   branches: ["main"]
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+        
+          user: JeraldPascual
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Manila
+
+          
+          filename: metrics.svg
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore: update metrics"
+
+      
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+          plugin_languages_other: no
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
