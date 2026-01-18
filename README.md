@@ -1,5 +1,13 @@
 
-<h2 align="left">👋 Hi, My name is Jerald Anthoni Olin A. Pascual</h1>
+
+<h1 align="left">👋 Hi, My name is Jerald Anthoni Olin A. Pascual</h1>
+
+
+<a href="https://myoctocat.com/">
+    <img src="https://raw.githubusercontent.com/JeraldPascual/JeraldPascual/refs/heads/main/octocat_JeraldPascual.png" style="min-width: 200px; max-width: 250px; width: 30%" alt="JeraldPascual's octocat" align="right"/>
+</a>
+
+###
 
 <h4 align="left">I’m a first-year student focused on building with React, composing modular components, managing state, and crafting responsive UIs. For backend needs, I use Firebase (Auth, Firestore), handling data flow, real-time updates, and lightweight server logic so I can ship end-to-end features quickly.
 </h4>
