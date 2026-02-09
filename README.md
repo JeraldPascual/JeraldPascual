@@ -23,7 +23,7 @@ First-year IT undergraduate and junior developer specializing in **React** and *
 
 ## 💼 Current Focus
 
-- **Working on:** [1agenda](https://github.com/JeraldPascual) - Academic management system for my first-year class
+- **Working on:** [1agenda](https://github.com/JeraldPascual/1A-genda) - Academic management system for my first-year class
 -  **Learning:** ReactJS patterns and state management, System Design, and LLM's Workflows
 -  **Tools:** GitHub Actions, Notion, Obsidian for project management
 
