@@ -6,7 +6,7 @@
 
 
 <a href="https://linkedin.com/in/pascualjerald">
-    <img src="" style="width: 30%; min-width: 200px; max-width: 250px; " alt="Jerald's Octocat"/>
+    <img src="https://raw.githubusercontent.com/JeraldPascual/JeraldPascual/9eeced7ec0b4e81725477eb2ee6dcbf91ef1093f/octocat_JeraldPascual.png" style="width: 30%; min-width: 200px; max-width: 250px; " alt="Jerald's Octocat"/>
 </a>
 
 ### Junior Developer | IT Undergraduate
