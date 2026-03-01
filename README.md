@@ -32,19 +32,14 @@ Currently building **[1agenda](https://github.com/JeraldPascual/1A-genda)** - an
 ## 🚀 Active Projects
 
 <!--START_SECTION:repos-->
-<div align="center">
-
-<a href="https://github.com/JeraldPascual/CrediLab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeraldPascual&repo=CrediLab&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/JeraldPascual/IRLMode">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeraldPascual&repo=IRLMode&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/JeraldPascual/1A-genda">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeraldPascual&repo=1A-genda&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-
-</div>
+| Repository | Description | Language | Stars | Forks |
+|:-----------|:------------|:--------:|:-----:|:-----:|
+| [**CrediLab**](https://github.com/JeraldPascual/CrediLab) | Verified Programming Assessment Ledger | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=white) | ![Stars](https://img.shields.io/github/stars/JeraldPascual/CrediLab?style=flat-square&color=58A6FF&labelColor=0D1117) | ![Forks](https://img.shields.io/github/forks/JeraldPascual/CrediLab?style=flat-square&color=58A6FF&labelColor=0D1117) |
+| [**IRLMode**](https://github.com/JeraldPascual/IRLMode) | Another site blocker extension but takes you IRL | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=white) | ![Stars](https://img.shields.io/github/stars/JeraldPascual/IRLMode?style=flat-square&color=58A6FF&labelColor=0D1117) | ![Forks](https://img.shields.io/github/forks/JeraldPascual/IRLMode?style=flat-square&color=58A6FF&labelColor=0D1117) |
+| [**1A-genda**](https://github.com/JeraldPascual/1A-genda) | Class management system for batches BSIT 1A1 and 1A2 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=white) | ![Stars](https://img.shields.io/github/stars/JeraldPascual/1A-genda?style=flat-square&color=58A6FF&labelColor=0D1117) | ![Forks](https://img.shields.io/github/forks/JeraldPascual/1A-genda?style=flat-square&color=58A6FF&labelColor=0D1117) |
+| [**env-secret-rotator**](https://github.com/JeraldPascual/env-secret-rotator) | No description provided. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=white) | ![Stars](https://img.shields.io/github/stars/JeraldPascual/env-secret-rotator?style=flat-square&color=58A6FF&labelColor=0D1117) | ![Forks](https://img.shields.io/github/forks/JeraldPascual/env-secret-rotator?style=flat-square&color=58A6FF&labelColor=0D1117) |
+| [**formula-mockeup**](https://github.com/JeraldPascual/formula-mockeup) | No description provided. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=white) | ![Stars](https://img.shields.io/github/stars/JeraldPascual/formula-mockeup?style=flat-square&color=58A6FF&labelColor=0D1117) | ![Forks](https://img.shields.io/github/forks/JeraldPascual/formula-mockeup?style=flat-square&color=58A6FF&labelColor=0D1117) |
+| [**Pearson-Correlation-App**](https://github.com/JeraldPascual/Pearson-Correlation-App) | It's a waste of pen and paper to write formula | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=white) | ![Stars](https://img.shields.io/github/stars/JeraldPascual/Pearson-Correlation-App?style=flat-square&color=58A6FF&labelColor=0D1117) | ![Forks](https://img.shields.io/github/forks/JeraldPascual/Pearson-Correlation-App?style=flat-square&color=58A6FF&labelColor=0D1117) |
 <!--END_SECTION:repos-->
 
 ---
