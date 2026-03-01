@@ -32,6 +32,19 @@ Currently building **[1agenda](https://github.com/JeraldPascual/1A-genda)** - an
 ## 🚀 Active Projects
 
 <!--START_SECTION:repos-->
+<div align="center">
+
+<a href="https://github.com/JeraldPascual/CrediLab">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeraldPascual&repo=CrediLab&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/JeraldPascual/IRLMode">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeraldPascual&repo=IRLMode&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/JeraldPascual/1A-genda">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeraldPascual&repo=1A-genda&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+</a>
+
+</div>
 <!--END_SECTION:repos-->
 
 ---
@@ -53,6 +66,8 @@ Hit me up on [LinkedIn](https://linkedin.com/in/pascualjerald) or check out what
 
 <div align="center">
 
-**Last Updated:** <!--START_SECTION:update_time--><!--END_SECTION:update_time-->
+**Last Updated:** <!--START_SECTION:update_time-->
+March 2, 2026
+<!--END_SECTION:update_time-->
 
 </div>
