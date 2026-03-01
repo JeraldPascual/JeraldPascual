@@ -8,7 +8,7 @@ async function getActiveRepos() {
   const { data } = await octokit.repos.listForUser({
     username,
     sort: 'pushed',
-    per_page: 6,
+    per_page: 20,
     type: 'owner',
   });
 
@@ -18,33 +18,43 @@ async function getActiveRepos() {
     .map(r => ({
       name: r.name,
       url: r.html_url,
-      description: r.description || '',
-      language: r.language || '',
+      description: r.description || 'No description provided.',
+      language: r.language || 'N/A',
       stars: r.stargazers_count,
       forks: r.forks_count,
+      updatedAt: new Date(r.pushed_at).toLocaleDateString('en-US', {
+        month: 'short', day: 'numeric', year: 'numeric',
+      }),
     }));
 }
 
+const languageColor = {
+  JavaScript: 'F7DF1E',
+  TypeScript: '3178C6',
+  Python: '3776AB',
+  HTML: 'E34F26',
+  CSS: '1572B6',
+  Java: 'ED8B00',
+};
+
 function generateRepoCards(repos) {
-  if (repos.length === 0) return 'No active repositories found.';
+  if (repos.length === 0) return '_No active repositories found._';
 
-  const languageColor = {
-    JavaScript: 'F7DF1E',
-    TypeScript: '3178C6',
-    Python: '3776AB',
-    HTML: 'E34F26',
-    CSS: '1572B6',
-    Java: 'ED8B00',
-  };
+  const rows = repos.map(r => {
+    const color = languageColor[r.language] || '808080';
+    const langBadge = r.language !== 'N/A'
+      ? `![${r.language}](https://img.shields.io/badge/-${encodeURIComponent(r.language)}-${color}?style=flat-square&logoColor=white)`
+      : '—';
+    const stars = `![Stars](https://img.shields.io/github/stars/${username}/${r.name}?style=flat-square&color=58A6FF&labelColor=0D1117)`;
+    const forks = `![Forks](https://img.shields.io/github/forks/${username}/${r.name}?style=flat-square&color=58A6FF&labelColor=0D1117)`;
+    return `| [**${r.name}**](${r.url}) | ${r.description} | ${langBadge} | ${stars} | ${forks} |`;
+  });
 
-  let cards = '<div align="center">\n\n';
-
-  for (const repo of repos) {
-    cards += `<a href="${repo.url}">\n  <img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />\n</a>\n`;
-  }
-
-  cards += '\n</div>';
-  return cards;
+  return [
+    '| Repository | Description | Language | Stars | Forks |',
+    '|:-----------|:------------|:--------:|:-----:|:-----:|',
+    ...rows,
+  ].join('\n');
 }
 
 function updateReadme(content, section, replacement) {
