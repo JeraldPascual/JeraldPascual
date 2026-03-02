@@ -19,7 +19,7 @@
 
 ## 🎯 What I'm Up To
 
-Currently building **[1agenda](https://github.com/JeraldPascual/1A-genda)** - an academic management system for my class. Think of it as "Notion meets Google Classroom, but actually developed for how I work as a P.I.O displaying tasks and announcements."
+Currently building **[CrediLab](https://github.com/JeraldPascual/CrediLab)** which is  a decentralized coding assessment platform where students solve Java challenges, earn immutable **CLB tokens** (ERC-20 on Ethereum Sepolia), and build verifiable on-chain credentials. Built for **BulSU Hackathon 2026** under SDG 4: Quality Education.
 
 **Right now, I'm:**
 - 🧠 Building with React
