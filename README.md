@@ -7,7 +7,7 @@
 </a>
 
 
-**First-year IT Student** • **Junior Developer**
+**Incoming Second-year IT Student** • **Developer**
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pascualjerald)
@@ -18,8 +18,6 @@
 ---
 
 ## 🎯 What I'm Up To
-
-Currently building **[CrediLab](https://github.com/JeraldPascual/CrediLab)** which is  a decentralized coding assessment platform where students solve Java challenges, earn immutable **CLB tokens** (ERC-20 on Ethereum Sepolia), and build verifiable on-chain credentials. Built for **BulSU Hackathon 2026** under SDG 4: Quality Education.
 
 **Right now, I'm:**
 - 🧠 Building with React
