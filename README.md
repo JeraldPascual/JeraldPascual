@@ -9,9 +9,8 @@
 
 **Incoming Second-year IT Student** • **Developer**
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pascualjerald)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/JeraldAnthoniOlinPascual)
+[![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=flat)](https://jeraldpascual.me)
 
 </div>
 
@@ -39,14 +38,6 @@
 | [**enoughBruh**](https://github.com/JeraldPascual/enoughBruh) | stop the doomscroll with another generic interruptor | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logoColor=white) | ![Stars](https://img.shields.io/github/stars/JeraldPascual/enoughBruh?style=flat-square&color=58A6FF&labelColor=0D1117) | ![Forks](https://img.shields.io/github/forks/JeraldPascual/enoughBruh?style=flat-square&color=58A6FF&labelColor=0D1117) |
 | [**formula-mockeup**](https://github.com/JeraldPascual/formula-mockeup) | No description provided. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=white) | ![Stars](https://img.shields.io/github/stars/JeraldPascual/formula-mockeup?style=flat-square&color=58A6FF&labelColor=0D1117) | ![Forks](https://img.shields.io/github/forks/JeraldPascual/formula-mockeup?style=flat-square&color=58A6FF&labelColor=0D1117) |
 <!--END_SECTION:repos-->
-
----
-
-## 💡 Philosophy
-
-I believe in learning by building. Every project is a chance to break something new, see where my curiousity leads me to—like developing another crud management system, and come out slightly less confused than before.
-
-Currently at that exciting stage where I know enough to be dangerous but not enough to be trusted with production code unsupervised.
 
 ---
 
