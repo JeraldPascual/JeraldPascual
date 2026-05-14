@@ -1,30 +1,17 @@
-<div align="center">
+
 
 # Hey, I'm Jerald 👋
 
-<a href="https://linkedin.com/in/pascualjerald">
-    <img src="https://raw.githubusercontent.com/JeraldPascual/JeraldPascual/9eeced7ec0b4e81725477eb2ee6dcbf91ef1093f/octocat_JeraldPascual.png" width="250" alt="Jerald's Octocat"/>
-</a>
 
-
-**Incoming Second-year IT Student** • **Developer**
+**Sophomore** • **Software Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pascualjerald)
 [![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=flat)](https://jeraldpascual.me)
 
-</div>
+
 
 ---
 
-## 🎯 What I'm Up To
-
-**Right now, I'm:**
-- 🧠 Building with React
-- 🏗️ Learning system design principles
-- 🤖 Working mainly with LLM-powered dev workflows
-- 📦 Automating what I can automate with GitHub Actions like below
-
----
 
 ## 🚀 Active Projects
 
