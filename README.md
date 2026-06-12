@@ -1,8 +1,8 @@
 **Bulacan, Philippines**
 
-Sophomore IT Student exploring scalable systems & AI-aligned development.
+Sophomore IT student and Software Developer exploring scalable systems & AI-aligned development.
 
-I build things that start small and grow into something with real weight, from system architecture to AI safety guardrails to SDG-aligned system for education. Most of my projects lean on spec-driven development to stay in relevant pace but without losing direction.
+I build things that start small and grow into something with real weight, from system architecture to AI safety guardrails to SDG-aligned projects for education. Most of my projects lean on spec-driven development to stay in relevant pace but without losing direction.
 
 
 **Currently headed in**
