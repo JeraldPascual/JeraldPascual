@@ -1,8 +1,4 @@
-
-
-Sophomore IT student and Software Developer exploring scalability, maintainability, & AI-aligned development.
-
-I develop something with real weight, from system architecture to AI safety guardrails to SDG-aligned projects for education. Most of my projects lean on spec-driven development to stay in relevant pace but without losing direction. 🤯😉
+I develop personal and student tools and platform to SDG-aligned projects for education. My projects lean on spec-driven development to stay in relevant pace but without losing direction. 🤯😉
 
 
 **Currently headed in**
