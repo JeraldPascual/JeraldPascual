@@ -1,11 +1,7 @@
-I develop personal and student tools and platform to SDG-aligned projects for education. My projects lean on spec-driven development to stay in relevant pace but without losing direction. 🤯😉
+Hello there 👋
 
 
-**Currently headed in**
+- **Portfolio**: [Portfolio](https://jeraldpascual.me)
+- **LinkedIn**: [LinkedIn](https://linkedin.com/in/pascualjerald) 
 
-- System Design
-- AI-assisted workflows
-- Spec-Driven Development
-- Open-Source  
-
-[Portfolio](https://jeraldpascual.me) · [LinkedIn](https://linkedin.com/in/pascualjerald) 
+Primary contact at: jeraldabihaypascual@gmail.com
